@@ -1,0 +1,594 @@
+Close
+
+Close Browser Alert
+
+Browser Compatibility Notification
+
+It appears you are trying to access this site using an outdated browser. As a
+result, parts of the site may not function properly for you. We recommend
+updating your browser to its most recent version at your earliest convenience.
+
+   Sectors 
+
+Toggle Section
+
+     Energy & Resources 
+
+Toggle Section
+
+       Mining 
+       Oil & Gas 
+       Power 
+     Environment 
+     Property & Buildings 
+
+Toggle Section
+
+       Civic, Community and Justice 
+       Commercial and Workplace 
+       Defence and National Security 
+       Education and Science 
+       Healthcare and Wellbeing 
+       Industrial, Resource and Utilities 
+       Industrial, Resource and Utilities 
+       Residential, Retirement and Aged Care 
+       Retail and Hospitality 
+       Transport Facilities 
+       Urban Development 
+     Transportation 
+     Water 
+   Projects 
+
+Toggle Section
+
+     Project Search 
+   Services 
+
+Toggle Section
+
+     Advisory 
+
+Toggle Section
+
+       Asset Management 
+       Asset Management Systems 
+       Asset Performance and Optimisation 
+       Asset Operations 
+       Assurance, Audit and Compliance 
+       Business Case Development 
+       Finance and Economic Analysis 
+       Logistics and Infrastructure Policy 
+       Regulation and Access 
+       Risk Management 
+       Transaction Advisory 
+     Architecture and Design 
+     Buildings 
+
+Toggle Section
+
+       Asset Management Systems 
+       Demolition and Decommissioning 
+       Digital Design 
+       Forensic Engineering 
+
+Toggle Section
+
+         Accident Reconstruction 
+         Building Sciences and Physics 
+         Catastrophe Response 
+         Construction Defect 
+         Fire Investigations 
+         Structural Forensics 
+         Subsidence Investigations 
+       Geotechnical 
+       Instrumentation and Control 
+       Land Development and Urban Planning 
+
+Toggle Section
+
+         Land Development 
+         Urban Planning 
+       Materials, Process and Plant Engineering 
+
+Toggle Section
+
+         Materials Handling 
+         Minerals Processing 
+         Plant Engineering 
+       Mechanical, Electrical, Fire and Life Safety 
+
+Toggle Section
+
+         Electrical Engineering - Building 
+         Fire and Life Safety 
+         HVAC 
+         Hydraulics - Building 
+       Project Management 
+
+Toggle Section
+
+         Project and Construction Management 
+         Stakeholder Engagement and Social Sustainability 
+       Security, Information, Communication & Technology 
+
+Toggle Section
+
+         Communication Systems 
+         Security 
+       Spatial Sciences 
+       Structures 
+     Digital 
+
+Toggle Section
+
+       Cyber Security and Risk Management 
+       Digital Intelligence 
+       Digital Strategy and Transformation 
+       Digital Innovation 
+
+Toggle Section
+
+         The ECRi Hub: A tale of innovation 
+       Smart Technology Solutions 
+       Digital-Insights 
+
+Toggle Section
+
+         The transformative progression of the need to know 
+         Digital Engineering  a transformational opportunity for the industry 
+       Digital Lab (D-Lab) 
+       Digital Experience 
+     Energy and Resources 
+
+Toggle Section
+
+       Asset and Facilities Management 
+       Chemicals 
+       Dams 
+       Emergency Response 
+       Geology 
+       Geotechnical 
+       HSE Systems and Industrial Hygiene 
+       Impact Assessment and Permitting 
+       Instrumentation and Control 
+       Integrated Water Management 
+       Materials, Process and Plant Engineering 
+
+Toggle Section
+
+         Materials Handling 
+         Minerals Processing 
+         Plant Engineering 
+       Materials Technology 
+       Mechanical, Electrical, Fire and Life Safety 
+
+Toggle Section
+
+         Electrical Engineering - Building 
+         Fire and Life Safety 
+         HVAC 
+         Hydraulics - Building 
+       Mining Engineering and Geosciences 
+       Oil and Gas 
+       Power 
+       Project and Construction Management 
+       Risk Management 
+       Spatial Sciences 
+       Stakeholder Engagement and Social Sustainability 
+       Tailings (Mines and Residue) 
+       Wastewater Treatment and Recycling 
+       Tunnels 
+       EPCM 
+     Environmental 
+
+Toggle Section
+
+       Air and Noise 
+
+Toggle Section
+
+         Computational Fluid Dynamics 
+       Aquatic Sciences 
+       Contamination Assessment and Remediation 
+
+Toggle Section
+
+         Guiding industry on PFAS management 
+       Demolition and Decommissioning 
+       Food and Agriculture 
+
+Toggle Section
+
+         Agriculture 
+         Food Processing 
+         Forestry Management 
+       HSE Systems and Industrial Hygiene 
+       Hydrogeology 
+       Hydrology and Hydrodynamics 
+
+Toggle Section
+
+         Climate Change 
+         Waterways and Coastal 
+       Impact Assessment and Permitting 
+       Maritime and Coastal Engineering 
+       Natural Resources 
+       Spatial Sciences 
+       Stakeholder Engagement and Social Sustainability 
+       Waste Management 
+       Environmental Strategy Consultation 
+       International Development Assistance (IDA) 
+     Geosciences 
+
+Toggle Section
+
+       Contamination Assessment and Remediation 
+       Dams 
+       Geology 
+       Geotechnical 
+
+Toggle Section
+
+         Geotechnical laboratory testing 
+       Hydrogeology 
+       Mining Geosciences 
+       Risk Management 
+       Spatial Sciences 
+       Tailings (Mines and Residue) 
+       Tunnels 
+     Project Management 
+
+Toggle Section
+
+       Construction Contracting 
+       EPCM 
+       International Development Assistance (IDA) 
+       Project and Construction Management 
+       Stakeholder Engagement and Social Sustainability 
+     Transportation 
+
+Toggle Section
+
+       Air and Noise 
+       Architecture, Interior Design, Landscape Architecture and Urban Design 
+       Asset and Facilities Management 
+       Aviation 
+       Bridges 
+       Digital Design 
+       Geotechnical 
+       Impact Assessment and Permitting 
+       Maritime and Coastal Engineering 
+       Materials Technology 
+       Railways 
+       Road Systems 
+
+Toggle Section
+
+         Pavement Engineering 
+         Road Network Management 
+         Road Systems 
+       Structures 
+       Transportation Planning and Traffic Engineering 
+       Stakeholder Engagement and Social Sustainability 
+       Tunnels 
+       Intelligent Transport Systems 
+     Water 
+
+Toggle Section
+
+       Aquatic Sciences 
+       Dams 
+       Food and Agriculture 
+
+Toggle Section
+
+         Agriculture 
+         Food Processing 
+         Forestry Management 
+       Hydrogeology 
+       Automation 
+       Hydrology and Hydrodynamics 
+
+Toggle Section
+
+         Climate Change 
+         Waterways and Coastal 
+       Impact Assessment and Permitting 
+       Integrated Water Management 
+       International Development Assistance (IDA) 
+       Maritime and Coastal Engineering 
+       Spatial Sciences 
+       Stakeholder Engagement and Social Sustainability 
+       Wastewater and Stormwater Collection Systems 
+       Wastewater Treatment and Recycling 
+       Water Treatment and Desalination 
+
+Toggle Section
+
+         Desalination 
+         Water Treatment 
+       Water Transmission and Distribution 
+       Construction Contracting 
+   About Us 
+
+Toggle Section
+
+     Community 
+     Diversity and Inclusion 
+     Health, Safety and Environment 
+     History 
+
+Toggle Section
+
+       A Firm Foundation 
+       Breaking New Ground 
+     Integrity Management 
+     News and Insights 
+
+Toggle Section
+
+       Insights 
+
+Toggle Section
+
+         Water 
+         Energy & Resources 
+         Environment 
+         Property & Buildings 
+         Transportation 
+         Digital 
+         Advisory 
+         Project Management 
+         Planning for uncertainty 
+         Non-revenue water losses 
+         Achieving business sustainability 
+         Flood Modelling and Water meter Calibration 
+         Waste to Energy for Wastewater Treatment 
+         Integrated Water Management 
+         Resource Recovery from Wastewater 
+         Transitioning to customer-centric apporaches 
+         Groundwater Quality Monitoring at CCR Units 
+         California children affected by lead poisoning 
+         Water Recycling Fund Program 
+         Upgrading Kangaroo Creek Dam 
+         Complying with industrial stormwater planning updates 
+         EPA 2017 Stormwater Construction General Permit 
+         Filtering microplastics 
+         Lead in Drinking Water 
+         Permitting for industrial stormwater discharge in Illinois 
+         Storm Water Grant Program (SWGP) 
+         Water Recycling Fund Program 
+         Microgrid in WA 
+         EPA 2017 Stormwater Construction General Permit 
+         Permitting for industrial stormwater discharge in Illinois 
+         Court upholds emission monitoring for oil and gas 
+         Storm Water Grant Program (SWGP) 
+         Enabling electricity evolution 
+         Groundwater Quality Monitoring at CCR Units 
+         Infrastructure owners face change 
+         Proposed emission reductions for oil and gas 
+         Underground storage closure requirements 
+         US Congress votes to lift US oil export ban 
+         EPA 2017 Stormwater Construction General Permit 
+         Managing Outrage 
+         Groundwater Quality Monitoring at CCR Units 
+         Lead in Drinking Water 
+         Proposed emission reductions for oil and gas 
+         USEPA intends to expand the Risk Management Program 
+         Transforming perspectives on complex sites 
+         Complying with chemical data reporting 
+         Risk Assessment and Toxicology Update On TSCA Reform 
+         Court upholds emission monitoring for oil and gas 
+         Benzene Fenceline Monitoring Program 
+         California Organics Diversion Regulatory Update 
+         California children affected by lead poisoning 
+         Change Notification to ISO 14001:2015 
+         Task force recommendations for expedited site cleanup 
+         Proposed Revisions to Site Remediation MACT 
+         New Ontario online registry for environmental permits 
+         Federal guidance released for human health risk assessments 
+         Revised UST regulations 
+         Lead levels updated for remediation 
+         Remediation guidance for adaptive site management 
+         USEPA intends to expand the Risk Management Program 
+         New toxicity values for EPA screening calculator 
+         TSCA Reform is on its way to become a law 
+         New Strategy for Waste-Free Ontario 
+         Final ruling issued on exposure to Crystalline Silica 
+         Fill and Excess Soil Regulatory Update 
+         EPA 2017 Stormwater Construction General Permit 
+         Future of Western Sydney 
+         USEPA Vapor Intrusion Technical Guide 
+         Hazard awareness training for demolition services 
+         Big Data 
+         Digital Technologies 
+         Digital Disruption 
+         Canada hosts international forum on public private partnerships 
+         Public private partnership forum examines lessons for transit 
+         New Strategy for Waste-Free Ontario 
+         Hazard awareness training for demolition services 
+         Complying with chemical data reporting 
+         Fill and Excess Soil Regulatory Update 
+         Project Management for Large Transport Projects 
+         Public private partnership forum examines lessons for transit 
+         Canada hosts international forum on public private partnerships 
+         Transforming perspectives on complex sites 
+         Risk Assessment and Toxicology Update On TSCA Reform 
+         Critical insights from P3 2017 in Toronto, Canada 
+         Pioneering New Energy Systems 
+
+Toggle Section
+
+           Protecting Critical Energy Infrastructure 
+           Fast track new energy grid connection 
+           Pumped for pumped hydro projects? 
+           Maintaining power system strength 
+         Solving the PFAS puzzle 
+       newsheader 
+       News 
+
+Toggle Section
+
+         Adani Carmichael Coal Mine Project 
+       Publications 
+       Insights 
+     Our leadership 
+
+Toggle Section
+
+       Our Board 
+       Executive Management Group 
+       Governance 
+     Proud to be employee owned 
+     Sustainability 
+     Values and Culture 
+        Careers 
+
+Toggle Section
+
+     Opportunities 
+
+Toggle Section
+
+       Graduates and students 
+     Life@GHD 
+     Work@GHD 
+   Contact 
+
+Toggle Section
+
+     Feedback Form 
+
+Skip to Content
+
+   Sectors 
+
+     Energy & Resources 
+     Environment 
+     Property & Buildings 
+     Transportation 
+     Water 
+
+   Projects 
+
+     Project Search 
+
+   Services 
+
+     Advisory 
+     Architecture and Design 
+     Buildings 
+     Digital 
+     Energy and Resources 
+     Environmental 
+     Geosciences 
+     Project Management 
+     Transportation 
+     Water 
+
+   About Us 
+
+     Community 
+     Diversity and Inclusion 
+     Health, Safety and Environment 
+     History 
+     Integrity Management 
+     News and Insights 
+     Our leadership 
+     Proud to be employee owned 
+     Sustainability 
+     Values and Culture 
+        Careers 
+
+     Opportunities 
+     Life@GHD 
+     Work@GHD 
+
+   Contact 
+
+     Feedback Form 
+
+Change Your Location
+
+   Global 
+   Australia 
+   Canada (English) 
+   Canada (franais) 
+   Chile 
+   China 
+   Fiji / South Pacific 
+   New Zealand 
+   Papua New Guinea 
+   Philippines 
+   Qatar 
+   UAE 
+   UK 
+   United States 
+
+   Awards and Rankings 
+   Family of companies 
+   Policy Statements 
+   Quality Management Systems 
+
+Previous Banner  Next Banner
+
+  Together with our clients, we create lasting community benefit.
+
+GHD is one of the world's leading professional services companies operating in
+the global market sectors of  water,  energy and resources  ,  environment  ,
+property and buildings  , and  transportation  .  Talk to your local GHD
+contact
+
+  Sectors
+
+  Sectors
+
+Operating seamlessly across our 5 market sectors to deliver effective
+solutions for our clients.
+
+Explore our sectors
+
+  Projects
+
+  Projects
+
+Connecting the knowledge, skills and experience of our people to deliver
+successful project outcomes.
+
+Explore our projects
+
+  Services
+
+  Services
+
+From Advisory to Zoology, weve got you covered
+
+Explore our services
+
+  Careers
+
+  Careers
+
+Talented people delivering technical excellence with imagination
+
+Explore a career at GHD
+
+  News and Insights
+
+View More
+
+Loading News Feed...
+
+Follow Us:
+
+Contact Us  News and Insights  Legal Notices  Privacy Policy  Terms of Use
+Staff External Services  Client Access
+
+Copyright © GHD 2018
+
+Sitemap
+
+Increase Contrast
+
+Top
+
